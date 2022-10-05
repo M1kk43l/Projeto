@@ -1,0 +1,26 @@
+.background {
+    background-color: #87CEFA;
+    width: 1080px;
+    height: 1920px;
+  }
+  
+  h1 {
+    color: orange;
+    font-family: arial;
+    font-size: 55px;
+  }
+  
+  .dark-magician {
+    width: 200px;
+    height: 260px;
+  }
+  
+  .blue-eyes {
+    width: 200px;
+    height: 260px;
+  }
+  
+  .red-eyes {
+    width: 200px;
+    height: 260px;
+  }
